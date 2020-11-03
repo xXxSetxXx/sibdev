@@ -10,6 +10,10 @@ from rest_framework.response import Response
 from .sample_tasks import *
 from main_app.serializers import *
 
+"""
+
+"""
+
 ############################# Переменные #############################
 # ссылки для сайта
 links = {
