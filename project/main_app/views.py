@@ -11,7 +11,7 @@ from .sample_tasks import *
 from main_app.serializers import *
 
 """
-qwew
+qwew22
 """
 
 ############################# Переменные #############################
